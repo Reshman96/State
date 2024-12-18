@@ -1,0 +1,19 @@
+{
+  "name": "state",
+  "version": "1.0.0",
+  "description": "This is a TypeScript project which is meant to display an example of the State pattern.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Reshman Siva",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
